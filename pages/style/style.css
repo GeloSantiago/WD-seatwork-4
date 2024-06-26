@@ -1,0 +1,143 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+body{
+    overflow: hidden;
+}
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+
+#featured{
+    background: -webkit-linear-gradient(#3333335b, #fff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+#glassmorphism{
+    background: rgba(160, 160, 160, 0.11);
+border-radius: 16px;
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.24);
+backdrop-filter: blur(5px);
+-webkit-backdrop-filter: blur(5px);
+width: 80%;
+height: 90vh;
+}
+
+
+#banner{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+background-size: cover;
+z-index: -1;
+transition: 1s;
+}
+
+#info-text{
+    text-shadow: 3px 3px 2px rgba(0, 0, 0, 0.48);
+
+}
+
+#bx-nav, #button{
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.24);
+}
+
+#bx-nav{
+    background: rgba(255, 255, 255, 0.11);
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.24);
+    backdrop-filter: blur(5px);
+}
+
+#banner-left-I{
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    top: 0;
+    z-index: -1;
+    width: 100%;
+    height: 100%;
+
+}
+
+
+#banner-right-I{
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    z-index: -1;
+    top: 0;
+}
+
+#banner-color{
+    background-color: rgba(0, 0, 0, 0.342);
+}
+
+
+#ThumbLeft{
+    color: #fff;
+    width: 4rem;
+    left: 2rem;
+    cursor: pointer;
+    animation: bouncingLeft 0.8s linear infinite;
+    transition: 0.5s;
+
+}
+
+#ThumbRight{
+    color: #fff;
+    width: 4rem;
+    right: 2rem;
+    cursor: pointer;
+    animation: bouncingLeft 0.8s linear infinite;
+    transition: 0.5s;
+}
+
+
+
+#slide-bg-right, #slide-bg-left{
+    background: rgba(160, 160, 160, 0.11);
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.24);
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
+}
+
+#slide-bg-right{
+    right: -100%;
+    transition: 0.5s;
+
+}
+
+#slide-bg-left{
+    left: -100%;
+    transition: 0.5s;
+}
+
+@keyframes bouncingLeft {
+    0%{
+        transform: translateX(0px);
+    }
+    50%{
+        transform: translateX(-8px);
+    }
+    100%{
+        transform: translateX(0px);
+    }
+}
+
+
+@media screen and (max-width:1500px) {
+    #glassmorphism{
+    width: 90%;
+    }
+    
+}
+
