@@ -105,8 +105,8 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Geography of the World of Avatar | I used this as a reference for my website | https://www.figma.com/community/file/1165787287232864419 |
-| PANDORA FROM AVATAR: THE WAY OF WATER IS INSPIRED BY THESE IRL LOCATIONS
+| Geography of the World of Avatar | I used this as a reference for my website | https://www.figma.com/community/file/1165787287232864419 |WORLD GAMING
+Create Manage Matches |
  | I used this as inspo for my website | https://www.figma.com/design/4bA4J99p9JTPVBhGHeqKck/Gaming-platform---Website-designing--(FREE)-(Community)?node-id=70-474&t=rjpUd7Kx8sqsoiuc-0 |
 | Github Code | Reference for cards | https://github.com/codewithsadee/gamics |
 
