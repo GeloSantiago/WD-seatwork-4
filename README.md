@@ -12,7 +12,7 @@
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  This website is a Hero and Card Display Website with distinct designs using pure HTML and CSS. Include both static and animated versions of the headers and footers. Ensure the website is well-structured, deployed, and the README file is updated accordingly.
+  This website is a Features Display Website with showcasing distinct designs using pure HTML and CSS, JAVA plus. Include both static and Dynamic Background: On the second page, an automatic background change feature captivates visitors with shifting landscapes and gaming scenes. Powered by CSS animations, this feature adds a dynamic flair that keeps the experience fresh and engaging. Decision Point: The final page presents users with a choice: to design UI/UX as a visionary web designer or to delve into coding and programming as a web developer. This interactive decision point utilizes CSS transitions and interactive elements to guide users seamlessly towards their chosen path. Ensure the website is well-structured, deployed, and the README file is updated accordingly.
 </div>
 
 <br />
