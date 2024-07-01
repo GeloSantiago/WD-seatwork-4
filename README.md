@@ -12,8 +12,7 @@
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  This website is a Features Display Website with showcasing distinct designs using pure HTML and CSS, JAVA plus. Include both static and Dynamic Background: On the second page, an automatic background change feature captivates visitors with shifting landscapes and gaming scenes. Powered by CSS animations, this feature adds a dynamic flair that keeps the experience fresh and engaging. Decision Point: The final page presents users with a choice: to design UI/UX as a visionary web designer or to delve into coding and programming as a web developer. This interactive decision point utilizes CSS transitions and interactive elements to guide users seamlessly towards their chosen path. Ensure the website is well-structured, deployed, and the README file is updated accordingly.
-</div>
+  This website is a Features Display Website with showcasing distinct designs using pure HTML and CSS, JAVA plus. Include both static and Dynamic Background: On the second page, an automatic background change feature captivates visitors with shifting landscapes and gaming scenes. Powered by CSS animations, this feature adds a dynamic flair that keeps the experience fresh and engaging. Decision Point: The final page presents users with a choice: to design UI/UX as a visionary web designer or to delve into coding and programming as a web developer. This interactive decision point utilizes CSS transitions and interactive elements to guide users seamlessly towards their chosen path.
 
 <br />
 
@@ -54,7 +53,7 @@
 
 <!-- TODO: To be changed -->
 <!-- The following are just sample -->
-It's a website that displays distinct hero and card designs using pure HTML and CSS.
+It's a website that displays project's folder presents a selection of photos that investigate meteorological phenomena in original and eye-catching ways. Go through the subfolders to see the variety of weather that was photographed for these pictures. the inventiveness of opium designers or artists, presenting their creations in a format that is visually striking. Its solely HTML and CSS design attempts to create an immersive experience that emphasizes the distinctive UI/UX features and styles of the webpage. The website functions as a gallery as well as an interactive platform where users can investigate and attempt to design and create the depths of opium artistry using different layouts and designs. This project's folder features a selection of photos that .
 
 ### Key Components
 <!-- TODO: List of Key Components -->
