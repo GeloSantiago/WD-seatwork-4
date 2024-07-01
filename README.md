@@ -52,8 +52,8 @@
 
 <!-- TODO: To be changed -->
 <!-- The following are just sample -->
-It's a website that displays project's folder presents a selection of photos that investigate meteorological phenomena in original and eye-catching ways. Go through the subfolders to see the variety of weather that was photographed for these pictures. the inventiveness of opium designers or artists, presenting their creations in a format that is visually striking. Its solely HTML and CSS design attempts to create an immersive experience that emphasizes the distinctive UI/UX features and styles of the webpage. The website functions as a gallery as well as an interactive platform where users can investigate and attempt to design and create the depths of opium artistry using different layouts and designs. This project's folder features a selection of photos that visually-appealing ways. Navigate through the subfolders to discover the diverse range of weather captured in these images. and creativity of opium artists or designers, showcasing their work in a visually compelling format. Designed purely with HTML and CSS, it aims to provide an immersive experience that highlights the unique styles and functions of the UI/UX of the webpage. The website serves not only as a gallery but also as an interactive platform where visitors can explore and must try to create and design the depths of opium artistry through various designs and layouts..
-
+### Overview
+The website displays a project's folder with photos investigating meteorological phenomena in unique ways. Users can navigate subfolders to explore various weather images and the inventive works of opium designers. Built solely with HTML and CSS, it offers an immersive experience that highlights distinctive UI/UX features. The site functions as both a gallery and an interactive platform, allowing users to explore and create designs inspired by opium artistry..
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
