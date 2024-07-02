@@ -5,17 +5,22 @@
 <br />
 <div align="center">
   <a href="https://github.com/GeloSantiago">
+  <!-- TODO: If you want to add logo or banner you can add it here -->
     <img src="https://tse4.mm.bing.net/th?id=OIP.uWkwL8wWRyyyo8h4s6v1vQHaGT&pid=Api&P=0&h=220" alt="Nyebe" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Feature Display Website - WD-Seatwork 4</h3>
+  <h3 align="center">Feature Display</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
   This Features Display Website uses HTML, CSS, and JavaScript. It includes dynamic backgrounds with CSS animations and an interactive decision point for choosing between UI/UX design and web development.
 
+</div>
+
 <br />
 
+<!-- TODO: Change the zyx-0314 into your github username  -->
+<!-- TODO: Change the WD-Template-Project into the same name of your folder -->
 ![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WD-Template-Project)
 
 ---
@@ -48,12 +53,19 @@
 </details>
 
 ---
+
 ## Overview
 
 <!-- TODO: To be changed -->
 <!-- The following are just sample -->
-### Overview
-The website displays a project's folder with photos investigating meteorological phenomena in unique ways. Users can navigate subfolders to explore various weather images and the inventive works of opium designers. Built solely with HTML and CSS, it offers an immersive experience that highlights distinctive UI/UX features. The site functions as both a gallery and an interactive platform, allowing users to explore and create designs inspired by opium artistry..
+The website displays a project's folder with photos investigating meteorological phenomena in unique ways. Users can navigate subfolders to explore various weather images and the inventive works of opium designers. Built solely with HTML and CSS, it offers an immersive experience that highlights distinctive UI/UX features. The site functions as both a gallery and an interactive platform, allowing users to explore and create designs inspired by opium artistry.
+
+Guiding Question:
+- What is the project
+- Whats the purpose
+- What are key components
+- What technology used and how it is used
+
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
@@ -64,7 +76,6 @@ The website displays a project's folder with photos investigating meteorological
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
-
 
 ## Rules, Practices and Principles
 1. Always use `WD-` in the front of the Title of the Project for the Subject followed by your custom naming.
@@ -104,8 +115,15 @@ WD-ProjectName
 
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
-|-|-|-|
-| WORLD GAMING Create Manage Matches | I used this as a reference for my website | https://www.figma.com/community/file/1165787287232864419 |
-|Epic games | I used this as inspo for my website | https://www.epicgames.com/site/en-US/home |
-| Github Code | Reference for cards | https://github.com/codewithsadee/gamics |
+| Google Font | Change font to PT Sans Narrow | https://fonts.google.com/specimen/PT+Sans+Narrow |
+| Google Font | Change font to Manrope | https://fonts.google.com/specimen/Manrope?query=manrope |
+| Bootstrap | Provides a collection of syntax for template designs | https://getbootstrap.com/ |
+| Grunge Loop Overlay | Landing Page Visual | https://youtu.be/0fpV2vVcvp0?si=V00tMLSJenLGpXZB |
+| GQ Feature display gaming theme | Feature 1 Content | https://www.figma.com/community/file/1165787287232864419 |
+| Carousel |  https://github.com/codewithsadee/gamics |
+| Responsive Carousel  Web Design | Feature 2 Visual | https://youtu.be/ThaIBFd387A?si=s-IkNtslt6Mk7F4b |
+| The Browsers For Gamers | For my contents |  https://github.com/codewithsadee/gamics |
+| Epic Games Website | Website Inspiration | https://www.epicgames.com/site/en-US/home/ |
+
+
 
