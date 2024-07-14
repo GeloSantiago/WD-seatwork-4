@@ -13,7 +13,7 @@
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  This Features Display Website uses HTML, CSS, and JavaScript. It includes dynamic backgrounds with CSS animations and an interactive decision point for choosing between UI/UX design and web development.
+  This Features Display Website uses HTML, CSS, and JavaScript. It includes dynamic backgrounds with CSS animations and an interactive decision point for choosing between UI/UX design and web development adittional of feature infos of the animals on the second page.
 
 </div>
 
