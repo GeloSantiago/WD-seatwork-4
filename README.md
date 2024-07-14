@@ -13,7 +13,7 @@
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  This Features Display Website uses HTML, CSS, and JavaScript. It includes dynamic backgrounds with CSS animations and an interactive decision point for choosing between UI/UX design and web development adittional of feature infos of the animals on the second page.
+  This Features Display Website uses HTML, CSS, and JavaScript. It includes dynamic backgrounds with CSS animations and an interactive decision point for choosing between UI/UX design and web development adittional of feature info of the animals on the second page.
 
 </div>
 
@@ -58,7 +58,7 @@
 
 <!-- TODO: To be changed -->
 <!-- The following are just sample -->
-The first page is where you will you locate the landing page and for the second page is where will you locate the key feature infos of the animals. Moose, reindeer, elephants, and leopards are remarkable animals each with unique characteristics and habitats. Moose, the largest members of the deer family, are found in northern regions such as Canada, Alaska, and Scandinavia, thriving in forests and wetlands. Reindeer, also known as caribou in North America, are adapted to cold Arctic and subarctic environments, where they migrate vast distances in search of food. Elephants, the largest land animals, are distinguished by their long trunks, large ears, and tusks, and are native to Africa and Asia, inhabiting diverse landscapes from savannas to forests. Leopards, with their distinctive spotted coats, are highly adaptable big cats found in Africa and parts of Asia, known for their solitary and elusive nature. Each of these animals plays a crucial role in their ecosystems, from the forest-dwelling moose shaping vegetation patterns to the powerful elephant engineering their habitats, while leopards and reindeer contribute to the biodiversity of their respective regions.
+The first page is where you will you locate the landing page and for the second page is where will you locate the key feature infos of the animals. Moose, reindeer, elephants, and leopards are remarkable animals each with unique characteristics and habitats. Moose, the largest members of the deer family, are found in northern regions such as Canada, Alaska, and Scandinavia, thriving in forests and wetlands. Reindeer, also known as caribou in North America, are adapted to cold Arctic and subarctic environments, where they migrate vast distances in search of food. Elephants, the largest land animals, are distinguished by their long trunks, large ears, and tusks, and are native to Africa and Asia, inhabiting diverse landscapes from savannas to forests. Leopards, with their distinctive spotted coats, are highly adaptable big cats found in Africa and parts of Asia, known for their solitary and elusive nature. Each of these animals plays a crucial role in their ecosystems, from the forest-dwelling moose shaping vegetation patterns to the powerful elephant engineering their habitats, while leopards and reindeer contribute to the biodiversity of their respective regions and last page is just an additional design to see what's the other keu features of my website.
 
 Guiding Question:
 - What is the project
